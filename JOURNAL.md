@@ -16,6 +16,11 @@ Total time: 1.25 hours.
 
 
 # August 6: Buttons + looking for IO expander
+Added the buttons!
+Also looking for a GPIO expander, might go with MCP one like adafruit has
+https://www.adafruit.com/product/5346
+
+Not sure if I should have the buttons be on a GPIO expander, or something else...
 
 <img width="452" height="285" alt="Screenshot 2025-08-06 at 6 15 19 PM" src="https://github.com/user-attachments/assets/6ac0195a-beab-49bc-a185-0496dc61ad3c" />
 Total time: 1 hours
