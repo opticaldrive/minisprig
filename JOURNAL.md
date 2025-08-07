@@ -12,4 +12,10 @@ After some estimation, slack threads, physical measurement, and 3d models, I thi
 
 Sorry for less then ideal detailed log, I'm kind rushing rn sorry.
 
-Total time: 1.5 hours.
+Total time: 1.25 hours.
+
+
+# August 6: Buttons + looking for IO expander
+
+<img width="452" height="285" alt="Screenshot 2025-08-06 at 6 15 19 PM" src="https://github.com/user-attachments/assets/6ac0195a-beab-49bc-a185-0496dc61ad3c" />
+Total time: 1 hours
