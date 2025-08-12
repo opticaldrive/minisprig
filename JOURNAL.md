@@ -50,3 +50,15 @@ I spent a really long time talking with deepseek on optimal pin arrangements
 We have enough GPIO for my ideal plans if we put TFT_CS and CARD_CS on the MCP23017, but deepseek kept yelling at me about not doing that lol. 
 ok thank you bye
 Total time: 4 hours
+
+# August 11: Back to the pico
+Back to the pico for this version!
+I wired all the buttons back up, nuked the xiao and gpio expander.
+Expansion header moved to left. idk if its ideal
+
+<img width="826" height="861" alt="Screenshot 2025-08-11 at 9 13 25 PM" src="https://github.com/user-attachments/assets/8f9eb370-5491-4602-a1c2-846df4fdf392" />
+wired the schematic to a pico instead
+<img width="811" height="606" alt="Screenshot 2025-08-11 at 9 14 49 PM" src="https://github.com/user-attachments/assets/d170996e-9d5a-4b87-8933-325fe43192ed" />
+I'm probably going insane with the amount of like guessing and eyeballing and hopes and prayers on this.
+
+Total time: 4 hours
